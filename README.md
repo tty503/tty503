@@ -10,4 +10,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tty503&show_icons=true&locale=en" alt="tty503" /></p>
 -->
 
-If you want to contact me you can do it to my account in [Telegram](https://t.me/tty503)
+## Contact me
+[![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/tty503)  
