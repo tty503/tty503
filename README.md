@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian<a href="https://hemant.codes">Kanon Ufo</a> <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" width="25px"></h1>
+<h1 align="center">Hi 👋, I'm Christian<a href=""></a> <img src="https://media.giphy.com/3oKIPnAiaMCws8nOsE" width="25px"></h1>
 <h3 align="center">Enthusiast to low-level programming😝</h3> 
 <h3 align="center">Malware analyst in progress... 🧐</h3> 
 <h3 align="center">Python Developer ❤️</h3> 
