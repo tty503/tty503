@@ -30,4 +30,5 @@
 -->
 
 ## Contact me
-[![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/tty503)  
+[![Telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/tty503)  
+[![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://www.linkedin.com/in/tty503)  
