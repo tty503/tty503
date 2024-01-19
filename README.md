@@ -31,4 +31,4 @@
 
 ## Contact me
 [![Telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/tty503)  
-[![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://www.linkedin.com/in/tty503)  
+[![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/tty503)  
