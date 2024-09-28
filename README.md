@@ -15,7 +15,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Enthusiast to low-level programming😝 and Fullstack Developer</h3> 
+<h3 align="center">Enthusiast to low-level programming😝 and Software Developer</h3> 
 <h3 align="center">Malware analyst in progress... 🧐</h3> 
 <h3 align="center">Yes, I am a newbie 😛and I will never stop being one because I will always have something to learn.</h3> 
 <h3 align="center">Am I a geek? maybe.</h3> 
