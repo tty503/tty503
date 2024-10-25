@@ -7,7 +7,7 @@
 </a>
 <br/>
 <a href="https://x.com/tty_503">
-  <img src="https://img.shields.io/x/follow/tty_503?style=for-the-badge&logo=x&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://img.shields.io/twitter/follow/tty_503?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Enthusiast to low-level programming😝 and Software Developer</h3> 
