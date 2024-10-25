@@ -1,5 +1,5 @@
 <a href="https://github.com/tty503/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tty503&&hide=cmake&langs_count=10&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tty503&&hide=cmake,html,dockerfile&langs_count=10&line_height=35&theme=dark" />
 </a>
 
 <a href="https://github.com/tty503/">
