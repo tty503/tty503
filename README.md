@@ -7,8 +7,6 @@
 </a>
 <br/>
 
-## Contact me
-
 <a href="https://x.com/tty_503">
   <img src="https://img.shields.io/twitter/follow/tty_503?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
